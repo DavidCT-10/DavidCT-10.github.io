@@ -1,0 +1,6 @@
+{
+    "dato": "Este es el dato que el ESP32 debe obtener",
+    "estado": "activo",
+    "valor": 42
+  }
+  
